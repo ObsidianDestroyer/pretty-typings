@@ -5,5 +5,7 @@ setup(
     packages=find_packages(),
     description='Pretty typing declarations',
     version='0.1',
-    url=
+    url='https://github.com/ObsidianDestroyer/pretty-typings',
+    author='Alexander Vasiliev',
+    keywords=['typing', 'pretty'],
 )
